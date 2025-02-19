@@ -1,6 +1,6 @@
 #  Hi, I'm Garima Tripathi
 
->  Research Assistant @ UB New York | Researcher @ CVIT, IIIT Hyderabad | CV Intern @ Game Theory | CSE Undergrad @ IIIT Hyderabad
+>  Research Assistant @ UB New York | Researcher @ CVIT, IIIT Hyderabad | CSE Undergrad @ IIIT Hyderabad
 
 ## 🚀 About Me
 I'm a Computer Science student at IIIT Hyderabad with a strong focus on Machine Learning and Computer Vision. Currently working as a Research Assistant at University at Buffalo, I specialize in developing cutting-edge AI solutions.
