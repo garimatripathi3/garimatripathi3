@@ -41,8 +41,5 @@ I'm a Computer Science student at IIIT Hyderabad with a strong focus on Machine 
 - 💼 [LinkedIn](garimatripathi)
 - 🌐 [Personal Website](garimatripathi)
 
-## 📈 GitHub Stats
-![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garimatripathi&show_icons=true&theme=radical)
-
 ---
 ⭐️ From [garimatripathi](https://github.com/garimatripathi)
