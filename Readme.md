@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Garima Tripathi
+#  Hi, I'm Garima Tripathi
 
 > ML Engineer & AI Researcher passionate about pushing the boundaries of Computer Vision and AI
 
