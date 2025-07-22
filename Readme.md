@@ -2,10 +2,10 @@
 
 >  Research Assistant @ UB New York | Researcher @ CVIT, IIIT Hyderabad | CSE Undergrad @ IIIT Hyderabad
 
-## 🚀 About Me
+##  About Me
 I'm a Computer Science student at IIIT Hyderabad with a strong focus on Machine Learning and Computer Vision. Currently working as a Research Assistant at University at Buffalo, I specialize in developing cutting-edge AI solutions.
 
-## 💻 Tech Stack
+##  Tech Stack
 - **AI/ML**: PyTorch, TensorFlow, CUDA, YOLOv5, LangChain, RAG
 - **Languages**: Python, C++
 - **Web Dev**: MERN Stack, Three.js, Flask API
@@ -13,7 +13,7 @@ I'm a Computer Science student at IIIT Hyderabad with a strong focus on Machine 
 - **Frameworks**: LLMOps, GNN, Knowledge Graph
 - **Core CS**: Data Structures, Algorithms, Operating Systems, DBMS
 
-## 🔭 Current Work
+##  Current Work
 - 🌟 Developing advanced fingertip segmentation algorithms at UB, New York
 - 🧠 Research in Computer Vision under Prof. PJ Narayanan
 - 📝 Working on Publication at CVPR 2024 - RSFNet: Specularity Factorization for Low Light Enhancement
