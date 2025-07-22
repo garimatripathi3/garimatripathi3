@@ -35,11 +35,11 @@ I'm a Computer Science student at IIIT Hyderabad with a strong focus on Machine 
 -  Microsoft Student Ambassador
 -  Content Creator at 0x1337 - The Hacking Club, IIITH
 
-## 🤝 Let's Connect
-- 📧 Email: garimatripathi3@gmail.com
-- 📱 Phone: +91-9151652466
-- 💼 [LinkedIn](garimatripathi)
-- 🌐 [Personal Website](garimatripathi)
+##  Let's Connect
+-  Email: garimatripathi3@gmail.com
+-  Phone: +91-9151652466
+-  [LinkedIn](garimatripathi)
+-  [Personal Website](garimatripathi)
 
 ---
-⭐️ From [garimatripathi](https://github.com/garimatripathi)
+ From [garimatripathi](https://github.com/garimatripathi)
